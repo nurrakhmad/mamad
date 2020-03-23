@@ -1,0 +1,19 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< Module external.linked.project.id = " Waktu Adzan " external.linked.project.path = " $ MODULE_DIR $ " external.root.project.path = " $ MODULE_DIR $ " external.system.id = " Gradle "  jenis = " JAVA_MODULE "  version = " 4 " >
+  < komponen  nama = " FacetManager " >
+    < facet  type = " java-gradle "  name = " Java-Gradle " >
+      < konfigurasi >
+        < option  name = " BUILD_FOLDER_PATH "  value = " $ MODULE_DIR $ / build " />
+        < option  name = " BUILDABLE "  value = " false " />
+      </ konfigurasi >
+    </ segi >
+  </ komponen >
+  < komponen  nama = " NewModuleRootManager "  LANGUAGE_LEVEL = " JDK_1_8 "  inherit-compiler-output = " true " >
+    < exclude-output />
+    < content  url = " file: // $ MODULE_DIR $ " >
+      < excludeFolder  url = " file: //$MODULE_DIR$/.gradle " />
+    </ konten >
+    < orderEntry  type = " inheritedJdk " />
+    < orderEntry  type = " sourceFolder "  forTests = " false " />
+  </ komponen >
+</ modul >
