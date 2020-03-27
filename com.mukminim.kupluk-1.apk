@@ -1,0 +1,39 @@
+files>
+<file name="com.mukminin.kupluk-1.apk" source="original">
+<mtime>1422493301</mtime>
+<size>3385101</size>
+<md5>55b46377274ffdc3d25bddd08bc996e9</md5>
+<crc32>80e45d9a</crc32>
+<sha1>8bd94bdd2d1b57c3f785253ec249614bc828d74a</sha1>
+<format>Android Package Archive</format>
+</file>
+<file name="com.mukminin.kupluk-1_archive.torrent" source="metadata">
+<btih>2d1ccfdbaa4a3f4e9a650abd88d1c167310c5adf</btih>
+<mtime>1515593518</mtime>
+<size>1833</size>
+<md5>5f6b5b68f7fd1a9d7c1201383ba93902</md5>
+<crc32>5f4623eb</crc32>
+<sha1>4b4d063284a53c1d9a06919a6848b16dd39ca3f9</sha1>
+<format>Archive BitTorrent</format>
+</file>
+<file name="com.mukminin.kupluk-1_files.xml" source="original">
+<format>Metadata</format>
+<md5>183d6feb2ae50767dddd2082f42e20b6</md5>
+</file>
+<file name="com.mukminin.kupluk-1_meta.sqlite" source="original">
+<mtime>1422493315</mtime>
+<size>17408</size>
+<md5>54656a08d21f66b511f77c90f0d841a2</md5>
+<crc32>bf5bf9c3</crc32>
+<sha1>e799415492678cfae262354bd95a35ab122c0b18</sha1>
+<format>Metadata</format>
+</file>
+<file name="com.mukminin.kupluk-1_meta.xml" source="original">
+<mtime>1515593517</mtime>
+<size>2949</size>
+<format>Metadata</format>
+<md5>fbdf90ac23808552f1f293c73d34a569</md5>
+<crc32>fd5495be</crc32>
+<sha1>19c687b9033cf2cca49035720511ff1047f3d219</sha1>
+</file>
+</files>
